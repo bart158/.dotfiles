@@ -1,5 +1,5 @@
 # My personal .dotfiles
-Currently I have config file for:
+Currently I have config files for:
 - hyprland
 - hyprpaper
 - waybar

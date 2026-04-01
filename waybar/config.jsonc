@@ -138,5 +138,9 @@
 			"suspend": "systemctl suspend",
 			"hibernate": "systemctl hibernate"
 		}
+    },
+    "hyprland/language": {
+        "format": "{short}"
     }
 }
+
